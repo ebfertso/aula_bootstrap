@@ -1,11 +1,22 @@
 @charset "UTF-8";
 
-
-.navbar {
+.header{
+    background-color: red;
+}
+.menunavegacao {
     background-color: lightpink;
-
 }
 
-.header{
+.box-externo{
     padding-top: 5px;
+    background-color: blueviolet;
+}
+
+.conteudo{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.footer{
+    background-color: black;
 }
