@@ -1,22 +1,53 @@
 @charset "UTF-8";
 
 .header{
-    background-color: red;
+    background-color: white;
 }
 .menunavegacao {
     background-color: lightpink;
+    
 }
 
 .box-externo{
-    padding-top: 5px;
-    background-color: blueviolet;
+    background-color: rgb(209, 201, 201);
 }
 
 .conteudo{
+    background-color: white;
+    margin: 0 15% 0 15%;
+    height: 100%;
+}
+
+.noticias-capa{
+    padding-top: 15px;
+    
+}
+
+.row{ 
     text-align: center;
-    background-color: aquamarine;
+    padding-top: 30px;
+
 }
 
 .footer{
-    background-color: black;
+    background-color: gray;
+    
+}
+.botao-noticias{
+    text-align: right;
+}
+.carrossel-fotos{
+    background-color: coral;
+}
+
+.agenda{
+    background-color: blue;
+}
+
+
+.navbar{
+    padding-left: 15%;
+    text-align: center;
+    height: 40px;
+    
 }
